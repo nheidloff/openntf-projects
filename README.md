@@ -28,7 +28,7 @@ Between 2008 and 2014 I contributed several open source projects to [OpenNTF](ht
 
 [Mobile Documents](http://mobiledocuments.openntf.org/main.nsf/project.xsp?r=project/Mobile%20Documents)
 
-![Screenshot](https://github.com/nheidloff/openntf-projects/raw/master/screenshots/mobiledocuments.jpg "Screenshot")
+![Screenshot](https://github.com/nheidloff/openntf-projects/raw/master/screenshots/MobileDocuments.jpg "Screenshot")
 
 [XPages For Connections](http://www.openntf.org/internal/home.nsf/project.xsp?action=openDocument&name=XPages%20For%20Connections)
 
